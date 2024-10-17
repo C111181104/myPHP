@@ -1,4 +1,4 @@
-# ME
+# 我
 
 學號 = C111181104<br>
 名字 = 劉桓均
@@ -19,6 +19,9 @@ git pull
 
 ## 進階
 git stash<br>
-git branch<br>  
+git branch<br>
 git checkout<br>
 git log
+
+## 考試
+CH 4-2-2

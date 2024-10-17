@@ -4,7 +4,9 @@ my  sid = C111181104<br>
 my name = 劉桓均
 
 ## terminal
-ctrl + shift + p<br>
+git config --global user.name "myname"<br>
+git config --global user.email myemail<br>
+ctrl + shift + p >>> Default Profile >>> GIt Bash<br>
 ctrl + `<br>
 git clone
 
@@ -17,6 +19,6 @@ git pull
 
 ## advnent
 git stash<br>
-git branch<br>
+git branch<br>  
 git checkout<br>
 git log

@@ -1,23 +1,23 @@
-# myPHP
+# ME
 
-my  sid = C111181104<br>
-my name = 劉桓均
+學號 = C111181104<br>
+名字 = 劉桓均
 
-## terminal
+## 設定
 git config --global user.name "myname"<br>
 git config --global user.email myemail<br>
 ctrl + shift + p >>> Default Profile >>> GIt Bash<br>
 ctrl + `<br>
 git clone
 
-## basic
+## 基礎
 git status<br>
 git add .<br>
 git commit -m "message"<br>
 git push<br>
 git pull
 
-## advnent
+## 進階
 git stash<br>
 git branch<br>  
 git checkout<br>

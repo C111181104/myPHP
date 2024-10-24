@@ -22,6 +22,3 @@ git stash<br>
 git branch<br>
 git checkout<br>
 git log
-
-## 考試
-CH 4-2-2

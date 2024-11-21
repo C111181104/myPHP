@@ -2,7 +2,7 @@
 function pageHeader(){
    print"<h3>PHP與MySQL網頁設計</h3>";
    echo "<hr/>";}
-function pageFooter(){print"<hr/>(c)Copyright by 劉桓均<br/>";}
+function pageFooter(){print"<hr/>(c)Copyright by 劉桓均 & C111181104<br/>";}
 ?>
 <?php
 pageHeader();

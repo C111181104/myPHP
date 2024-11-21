@@ -22,4 +22,3 @@ git stash<br>
 git branch<br>
 git checkout<br>
 git log
-.

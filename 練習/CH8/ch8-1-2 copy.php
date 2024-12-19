@@ -1,10 +1,7 @@
 <?php 
-
 $ip = $_SERVER['REMOTE_ADDR'];
 print "IP位址".$ip.'';
-
 ?>
-
 <table border="1">
    <Tr>
       <td>1</td>

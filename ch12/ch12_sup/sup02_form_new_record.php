@@ -25,9 +25,15 @@ SELECT * FROM students
         $servername = "localhost";
         $username = "root";
         $password = "";
-        $dbname = "myschool";
+        $dbname = "myschool_1104";
+
+        $aws_server = "13.54.4.168:3306";
+        $aws_username = "root";
+        $aws_password = "root";
+        $dbname = "myschool_1104";
 
         // Create connection
+        //$conn = new mysqli($aws_server, $aws_username, $aws_password, $dbname);
         $conn = new mysqli($servername, $username, $password, $dbname);
 
         // Check connection
@@ -92,9 +98,15 @@ SELECT * FROM students
         $servername = "localhost";
         $db_username = "root";
         $db_pwd = "";
-        $dbname = "myschool";
+        $dbname = "myschool_1104";
+
+        $aws_server = "13.54.4.168:3306";
+        $aws_username = "root";
+        $aws_password = "root";
+        $dbname = "myschool_1104";
 
         // Create connection
+        //$conn = new mysqli($aws_server, $aws_username, $aws_password, $dbname);
         $conn = new mysqli($servername, $db_username, $db_pwd, $dbname);
 
         // Check connection

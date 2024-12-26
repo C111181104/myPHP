@@ -5,7 +5,13 @@ function getDatabaseConnection() {
     $password = "";
     $dbname = "myschool";
 
+    $aws_server = "13.54.4.168:3306";
+    $aws_username = "root";
+    $aws_password = "root";
+    $dbname = "myschool_1104";
+
     // 建立連接
+    //$conn = new mysqli($aws_server, $aws_username, $aws_password, $dbname);
     $conn = new mysqli($servername, $username, $password, $dbname);
 
     // 檢查連接

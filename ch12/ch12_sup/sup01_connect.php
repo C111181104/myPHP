@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "myschool";
+$dbname = "myschool_1104";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -14,7 +14,7 @@ $aws_username = "root";
 $aws_password = "root";
 
 // Create AWSconnection
-$conn = new mysqli($aws_server, $aws_username, $aws_password, $dbname);
+//$conn = new mysqli($aws_server, $aws_username, $aws_password, $dbname);
 
 
 // Check connection
